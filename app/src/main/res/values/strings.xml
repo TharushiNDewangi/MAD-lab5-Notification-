@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab5(Notification)</string>
+    <string name="signup">SIGN UP</string>
+    <string name="name">NAME</string>
+    <string name="channel_name">chanel name</string>
+    <string name="channel_description">description</string>
+</resources>
